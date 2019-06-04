@@ -1,2 +1,2 @@
 # ML_practice
-Practice with Machine Learning
+Practice with Machine Learning using SKLearn
